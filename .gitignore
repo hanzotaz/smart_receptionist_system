@@ -1,0 +1,7 @@
+script/
+test_code/
+data/bmth.txt
+data/meditations.txt
+flask-app/audio.wav
+labs/get_data.ipynb
+labs/retriever.ipynb

@@ -1,0 +1,3 @@
+fastapi
+farm-haystack
+uvicorn
